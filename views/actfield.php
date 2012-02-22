@@ -1,0 +1,1 @@
+<?php echo __('Display in featured player?', 'featured-posts-player'); ?>&nbsp;<input type="checkbox" name="_wp_post_featured" id="_wp_post_featured" <?php if($value=='on'){ echo 'checked="checked"'; } ?> />
