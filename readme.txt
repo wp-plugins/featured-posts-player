@@ -12,7 +12,6 @@ This plugin lets you create a player to display a list of entries marked as 'fea
 == Description ==
 
 This plugin lets you create a player to display a list of entries marked as 'featured'.
-For a demo, visit http://weabers.com, in the home page are a player with the posts.
 
 
 == Installation ==
@@ -25,7 +24,6 @@ For a demo, visit http://weabers.com, in the home page are a player with the pos
 == Frequently Asked Questions ==
 
 == Screenshots ==
-
 
 == Changelog ==
 
